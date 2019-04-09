@@ -27,6 +27,7 @@
 
 ## UI
 * Большая коллекция готовых UI компонентов - https://storybook.js.org/
+* Бронь отелей, авто https://dhtmlx.com/docs/products/demoApps/
 
 
 ## API
