@@ -29,6 +29,8 @@
 * Большая коллекция готовых UI компонентов - https://storybook.js.org/
 * Бронь отелей, авто https://dhtmlx.com/docs/products/demoApps/
 
+## WEBP
+* WebP in CSS - https://github.com/ai/webp-in-css
 
 ## API
 * Язык запросов данных через API Facebook - https://graphql.org/
