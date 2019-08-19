@@ -8,6 +8,7 @@
 * Готовые сниппеты и решения стандартных задач на JavaScript - https://30secondsofcode.org/
 * Готовый JavaScript file uploader - http://dhtmlx.com/
 * Алгоритмы и структуры данных на Github - https://github.com/trekhleb/javascrip
+* jQuery to vanilla JavaScript - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
@@ -41,3 +42,10 @@
 * Два фреймворка для тестирования JS 
 https://jestjs.io/
 https://www.cypress.io/
+
+
+## SECURE
+* Список типичных файлов и каталогов на сервере - https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt
+
+## Вакансии
+* [geekjob.ru](https://geekjob.ru/)
