@@ -9,6 +9,7 @@
 * Готовый JavaScript file uploader - http://dhtmlx.com/
 * Алгоритмы и структуры данных на Github - https://github.com/trekhleb/javascrip
 * jQuery to vanilla JavaScript - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+* Вам не нужен jQuery - https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README-ru.md
 
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
