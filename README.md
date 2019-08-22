@@ -10,9 +10,13 @@
 * Алгоритмы и структуры данных на Github - https://github.com/trekhleb/javascrip
 * jQuery to vanilla JavaScript - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 * Вам не нужен jQuery - https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README-ru.md
+* Календарь - http://t1m0n.name/air-datepicker/docs/index-ru.html
+* Календарь - https://flatpickr.js.org/
+* Календарь - http://www.daterangepicker.com/
 
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
+* Пагинатор https://github.com/hootlex/vuejs-paginator
 
 
 ## NODE
@@ -30,6 +34,9 @@
 ## UI
 * Большая коллекция готовых UI компонентов - https://storybook.js.org/
 * Бронь отелей, авто https://dhtmlx.com/docs/products/demoApps/
+
+## Иконки
+* Общие, транспорт https://www.iconfinder.com/iconsets/pittogrammi
 
 ## WEBP
 * WebP in CSS - https://github.com/ai/webp-in-css
