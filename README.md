@@ -17,6 +17,8 @@
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
 * Пагинатор https://github.com/hootlex/vuejs-paginator
+* Модальные окна https://sweet-modal-vue.adepto.as/
+* Multy Uploader  https://github.com/updivision/vue2-multi-uploader/
 
 
 ## NODE
