@@ -19,6 +19,7 @@
 * Пагинатор https://github.com/hootlex/vuejs-paginator
 * Модальные окна https://sweet-modal-vue.adepto.as/
 * Multy Uploader  https://github.com/updivision/vue2-multi-uploader/
+* Number input https://github.com/fengyuanchen/vue-number-input
 
 
 ## NODE
