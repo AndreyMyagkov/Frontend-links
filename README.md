@@ -1,7 +1,16 @@
 # Frontend-links
 
+## Оптимизация
+* Простой подход к работе с отзывчивыми изображениями https://habr.com/ru/company/ruvds/blog/500292/
+* Optimizing images for the web - an in-depth guide https://dev.to/prototyp/optimizing-images-for-the-web-an-in-depth-guide-4j7d?ref=heydesigner
+
+## Инструменты
+* Генератор разделителей блоков  https://www.shapedivider.app/
+
 ## CSS
 * Простой CSS фреймворк - https://bulma.io/
+* The Ultimate Guide To CSS Grid  https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356  https://jst.hashnode.dev/css-grid-tutorial  https://habr.com/ru/company/ruvds/blog/506774/
+* Grid для макетов, Flexbox для компонентов https://webdevblog.ru/grid-dlya-maketov-flexbox-dlya-komponentov/
 
 ## JS
 
@@ -10,9 +19,12 @@
 * Алгоритмы и структуры данных на Github - https://github.com/trekhleb/javascrip
 * jQuery to vanilla JavaScript - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 * Вам не нужен jQuery - https://github.com/nefe/You-Dont-Need-jQuery/blob/master/README-ru.md
+* You-Dont-Need-Momentjs https://github.com/you-dont-need https://github.com/you-dont-need/You-Dont-Need-Momentjs
+* You may not need Axios https://danlevy.net/you-may-not-need-axios/
 * Календарь - http://t1m0n.name/air-datepicker/docs/index-ru.html
 * Календарь - https://flatpickr.js.org/
 * Календарь - http://www.daterangepicker.com/
+* Визуализация промисов и Async/Await https://habr.com/ru/post/501702/
 
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
@@ -58,8 +70,16 @@ https://www.cypress.io/
 ## SECURE
 * Список типичных файлов и каталогов на сервере - https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt
 
+## DOCKER
+* Как упаковать VueJS + NodeJS + MongoDB приложение в Docker https://habr.com/ru/post/476590/
+
+## Прочее
+* What is the difference between this & that? https://thisthat.dev/
+
+
 ## Вакансии
 * [geekjob.ru](https://geekjob.ru/)
 
 ## Тестовые задания
 * https://github.com/Hexlet/ru-test-assignments
+* https://habr.com/ru/company/otus/blog/517560/
