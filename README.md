@@ -60,3 +60,6 @@ https://www.cypress.io/
 
 ## Вакансии
 * [geekjob.ru](https://geekjob.ru/)
+
+## Тестовые задания
+* https://github.com/Hexlet/ru-test-assignments
