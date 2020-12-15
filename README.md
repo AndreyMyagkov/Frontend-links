@@ -28,10 +28,14 @@
 
 ## VUE
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
+
 * Пагинатор https://github.com/hootlex/vuejs-paginator
 * Модальные окна https://sweet-modal-vue.adepto.as/
 * Multy Uploader  https://github.com/updivision/vue2-multi-uploader/
 * Number input https://github.com/fengyuanchen/vue-number-input
+* Star Rating Component for Vue 2.x / 3.x https://github.com/craigh411/vue-star-rating
+* Date/Range picker vue2-datepicker https://github.com/mengxiong10/vue2-datepicker
+* Table grid https://xaksis.github.io/vue-good-table/
 
 
 ## NODE
