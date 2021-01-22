@@ -12,6 +12,9 @@
 * The Ultimate Guide To CSS Grid  https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356  https://jst.hashnode.dev/css-grid-tutorial  https://habr.com/ru/company/ruvds/blog/506774/
 * Grid для макетов, Flexbox для компонентов https://webdevblog.ru/grid-dlya-maketov-flexbox-dlya-komponentov/
 
+## Icon Pack
+* Люди https://www.iconfinder.com/iconsets/people-80
+
 ## JS
 
 * Готовые сниппеты и решения стандартных задач на JavaScript - https://30secondsofcode.org/
