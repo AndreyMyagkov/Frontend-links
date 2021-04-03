@@ -48,6 +48,7 @@
 * Карусель https://vue-snap.vercel.app/?path=/story/carousel--default
 * Notification https://github.com/ankurk91/vue-toast-notification
 * Datepicker https://github.com/mengxiong10/vue2-datepicker#readme
+* Click outside https://github.com/ndelvalle/v-click-outside
 
 
 ## NODE
