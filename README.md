@@ -33,12 +33,21 @@
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
 
 * Пагинатор https://github.com/hootlex/vuejs-paginator
+* Пагинатор https://vue-sliding-pagination.efrane.com/
 * Модальные окна https://sweet-modal-vue.adepto.as/
 * Multy Uploader  https://github.com/updivision/vue2-multi-uploader/
 * Number input https://github.com/fengyuanchen/vue-number-input
+* Input mask https://ronaldjerez.github.io/vue-input-facade/
+* Simple Input Mask https://beholdr.github.io/maska/
 * Star Rating Component for Vue 2.x / 3.x https://github.com/craigh411/vue-star-rating
 * Date/Range picker vue2-datepicker https://github.com/mengxiong10/vue2-datepicker
 * Table grid https://xaksis.github.io/vue-good-table/
+* Select https://vue-select.org/ 
+* Select (чуть хуже) https://desislavsd.gitbook.io/vue-select/
+* Loader https://ankurk91.github.io/vue-loading-overlay/
+* Карусель https://vue-snap.vercel.app/?path=/story/carousel--default
+* Notification https://github.com/ankurk91/vue-toast-notification
+* Datepicker https://github.com/mengxiong10/vue2-datepicker#readme
 
 
 ## NODE
