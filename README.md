@@ -28,8 +28,10 @@
 * Календарь - https://flatpickr.js.org/
 * Календарь - http://www.daterangepicker.com/
 * Визуализация промисов и Async/Await https://habr.com/ru/post/501702/
+* Selectize https://selectize.github.io/selectize.js/
 
 ## VUE
+* Коллекция https://github.com/vuejs/awesome-vue
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
 
 * Пагинатор https://github.com/hootlex/vuejs-paginator
