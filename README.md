@@ -33,6 +33,7 @@
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
+* Element UI https://element.eleme.io/
 
 * Пагинатор https://github.com/hootlex/vuejs-paginator
 * Пагинатор https://vue-sliding-pagination.efrane.com/
@@ -51,6 +52,8 @@
 * Notification https://github.com/ankurk91/vue-toast-notification
 * Datepicker https://github.com/mengxiong10/vue2-datepicker#readme
 * Click outside https://github.com/ndelvalle/v-click-outside
+* MultiSelect https://vue-multiselect.js.org/
+* Draggable, Sortable https://github.com/SortableJS/Vue.Draggable
 
 
 ## NODE
