@@ -54,6 +54,9 @@
 * Click outside https://github.com/ndelvalle/v-click-outside
 * MultiSelect https://vue-multiselect.js.org/
 * Draggable, Sortable https://github.com/SortableJS/Vue.Draggable
+* VueUse: Collection of essential Vue Composition Utilities https://vueuse.org/
+* https://vue-use-gesture.netlify.app/docs
+* SplitPanes https://antoniandre.github.io/splitpanes/
 
 
 ## NODE
