@@ -105,6 +105,7 @@ https://www.cypress.io/
 ## Вакансии
 * [geekjob.ru](https://geekjob.ru/)
 
-## Тестовые задания
+## Тестовые задания, собеседования
 * https://github.com/Hexlet/ru-test-assignments
 * https://habr.com/ru/company/otus/blog/517560/
+* https://github.com/yangshun/front-end-interview-handbook/blob/master/contents/ru/README.md
