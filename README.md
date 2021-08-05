@@ -11,6 +11,7 @@
 * Простой CSS фреймворк - https://bulma.io/
 * The Ultimate Guide To CSS Grid  https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356  https://jst.hashnode.dev/css-grid-tutorial  https://habr.com/ru/company/ruvds/blog/506774/
 * Grid для макетов, Flexbox для компонентов https://webdevblog.ru/grid-dlya-maketov-flexbox-dlya-komponentov/
+* Сниппеты https://www.30secondsofcode.org/
 
 ## Icon Pack
 * Люди https://www.iconfinder.com/iconsets/people-80
@@ -31,6 +32,7 @@
 * Selectize https://selectize.github.io/selectize.js/
 * CSS container queries https://github.com/nsmdnl/css-container-queries
 * CSS Element Queries https://github.com/marcj/css-element-queries
+* Сниппеты https://www.30secondsofcode.org/
 
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
