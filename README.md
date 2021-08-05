@@ -29,6 +29,7 @@
 * Календарь - http://www.daterangepicker.com/
 * Визуализация промисов и Async/Await https://habr.com/ru/post/501702/
 * Selectize https://selectize.github.io/selectize.js/
+* Css container queries https://github.com/nsmdnl/css-container-queries
 
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
