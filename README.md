@@ -53,6 +53,7 @@
 * Select (чуть хуже) https://desislavsd.gitbook.io/vue-select/
 * Loader https://ankurk91.github.io/vue-loading-overlay/
 * Карусель https://vue-snap.vercel.app/?path=/story/carousel--default
+* Слайдер Splide https://splidejs.com/integration/vue-splide/
 * Notification https://github.com/ankurk91/vue-toast-notification
 * Datepicker https://github.com/mengxiong10/vue2-datepicker#readme
 * Click outside https://github.com/ndelvalle/v-click-outside
