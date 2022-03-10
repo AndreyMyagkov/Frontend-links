@@ -33,6 +33,7 @@
 * CSS container queries https://github.com/nsmdnl/css-container-queries
 * CSS Element Queries https://github.com/marcj/css-element-queries
 * Сниппеты https://www.30secondsofcode.org/
+* Autocomplete https://tarekraafat.github.io/autoComplete.js
 
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
