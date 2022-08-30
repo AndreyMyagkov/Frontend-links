@@ -12,9 +12,14 @@
 * The Ultimate Guide To CSS Grid  https://jstutorial.medium.com/the-ultimate-guide-to-css-grid-2c5ba7b47356  https://jst.hashnode.dev/css-grid-tutorial  https://habr.com/ru/company/ruvds/blog/506774/
 * Grid для макетов, Flexbox для компонентов https://webdevblog.ru/grid-dlya-maketov-flexbox-dlya-komponentov/
 * Сниппеты https://www.30secondsofcode.org/
+* CSS стили кнопок, лоадеры https://cssfx.netlify.app/
 
 ## Icon Pack
 * Люди https://www.iconfinder.com/iconsets/people-80
+
+## Geometry
+* curved-arrows https://github.com/dragonman225/curved-arrows
+
 
 ## JS
 
