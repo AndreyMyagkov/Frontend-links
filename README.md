@@ -48,6 +48,7 @@
 * Пагинатор https://github.com/hootlex/vuejs-paginator
 * Пагинатор https://vue-sliding-pagination.efrane.com/
 * Модальные окна https://sweet-modal-vue.adepto.as/
+* Модальные окна Vue2 https://github.com/toannguyenhn/simple-modal-vue
 * Multy Uploader  https://github.com/updivision/vue2-multi-uploader/
 * Number input https://github.com/fengyuanchen/vue-number-input
 * Input mask https://ronaldjerez.github.io/vue-input-facade/
