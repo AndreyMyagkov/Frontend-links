@@ -39,6 +39,7 @@
 * CSS Element Queries https://github.com/marcj/css-element-queries
 * Сниппеты https://www.30secondsofcode.org/
 * Autocomplete https://tarekraafat.github.io/autoComplete.js
+* Cookie https://github.com/js-cookie/js-cookie
 
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
