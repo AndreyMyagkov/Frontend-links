@@ -72,6 +72,7 @@
 * https://vue-use-gesture.netlify.app/docs
 * SplitPanes https://antoniandre.github.io/splitpanes/
 * Миграция Vue-Cli на Vite https://web-standards.ru/articles/vue-cli-to-vite/
+* Lightbox https://fslightbox.com/vue
 
 
 ## NODE
