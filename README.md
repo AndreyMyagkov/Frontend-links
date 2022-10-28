@@ -74,6 +74,8 @@
 * Миграция Vue-Cli на Vite https://web-standards.ru/articles/vue-cli-to-vite/
 * Lightbox https://fslightbox.com/vue
 
+## Nuxt
+*  Оптимизация картинок https://image.nuxtjs.org/
 
 ## NODE
 * Статические генераторы на Node.JS -  https://www.11ty.io/
