@@ -40,6 +40,7 @@
 * Сниппеты https://www.30secondsofcode.org/
 * Autocomplete https://tarekraafat.github.io/autoComplete.js
 * Cookie https://github.com/js-cookie/js-cookie
+* wheelzoom https://github.com/updivision/wheelzoom
 
 ## VUE
 * Коллекция https://github.com/vuejs/awesome-vue
