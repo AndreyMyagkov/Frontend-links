@@ -66,6 +66,7 @@
 * Слайдер Splide https://splidejs.com/integration/vue-splide/
 * Notification https://github.com/ankurk91/vue-toast-notification
 * Datepicker https://github.com/mengxiong10/vue2-datepicker#readme
+* vue-flatpickr-component https://github.com/ankurk91/vue-flatpickr-component
 * Click outside https://github.com/ndelvalle/v-click-outside
 * MultiSelect https://vue-multiselect.js.org/
 * Draggable, Sortable https://github.com/SortableJS/Vue.Draggable
