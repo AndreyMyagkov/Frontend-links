@@ -94,6 +94,7 @@
 ## UI
 * Большая коллекция готовых UI компонентов - https://storybook.js.org/
 * Бронь отелей, авто https://dhtmlx.com/docs/products/demoApps/
+* Tabler https://preview.tabler.io/
 
 ## Иконки
 * Общие, транспорт https://www.iconfinder.com/iconsets/pittogrammi
