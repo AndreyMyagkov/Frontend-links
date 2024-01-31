@@ -1,4 +1,6 @@
 # Frontend-links
+## Прокачка алгоритмов
+* exercism.org https://exercism.org/
 
 ## Оптимизация
 * Простой подход к работе с отзывчивыми изображениями https://habr.com/ru/company/ruvds/blog/500292/
