@@ -43,6 +43,7 @@
 * wheelzoom https://github.com/updivision/wheelzoom
 
 ## VUE
+* vue3-touch-events https://github.com/robinrodricks/vue3-touch-events
 * Коллекция https://github.com/vuejs/awesome-vue
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
 * Element UI https://element.eleme.io/
