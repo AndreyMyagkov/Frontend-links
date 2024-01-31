@@ -22,7 +22,7 @@
 
 
 ## JS
-
+* js-money-input https://github.com/bupy7/js-money-input
 * Готовые сниппеты и решения стандартных задач на JavaScript - https://30secondsofcode.org/
 * Готовый JavaScript file uploader - http://dhtmlx.com/
 * Алгоритмы и структуры данных на Github - https://github.com/trekhleb/javascrip
