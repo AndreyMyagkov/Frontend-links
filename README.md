@@ -45,6 +45,7 @@
 * wheelzoom https://github.com/updivision/wheelzoom
 
 ## VUE
+* ⭐ date/range picker https://vue3datepicker.com/
 * vue3-touch-events https://github.com/robinrodricks/vue3-touch-events
 * Коллекция https://github.com/vuejs/awesome-vue
 * Готовая админка на VUE.JS - https://panjiachen.github.io/vue-element-admin-site/
