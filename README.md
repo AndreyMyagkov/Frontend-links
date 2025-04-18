@@ -2,6 +2,11 @@
 ## Прокачка алгоритмов
 * exercism.org https://exercism.org/
 
+## Дашборды, UI
+* ⭐ https://tabler.io/admin-template - много компонет, Free, Bootstrap совместимый, легко доработать
+* coreui https://coreui.io/ (Native, Vue, React). Не очень много компонет, больше в платной версии
+* https://adminlte.io/
+
 ## Оптимизация
 * Простой подход к работе с отзывчивыми изображениями https://habr.com/ru/company/ruvds/blog/500292/
 * Optimizing images for the web - an in-depth guide https://dev.to/prototyp/optimizing-images-for-the-web-an-in-depth-guide-4j7d?ref=heydesigner
